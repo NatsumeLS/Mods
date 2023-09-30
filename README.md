@@ -10,6 +10,7 @@
 - [Arknights - Guiding Ahead Lobby Theme](https://modworkshop.net/mod/44011) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-AK-GuidingAheadLobbyTheme)
 - [Detected Sound - Metal Gear Solid Alert](https://modworkshop.net/mod/44352) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-MetalGearSolidAlert)
 - [Detected Sound - TF2 Alert](https://modworkshop.net/mod/44355) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-TF2Alert)
+- [Detected Sound - AUGHHHH](https://modworkshop.net/mod/44358) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-AUGHHHH)
 
 ### Cyberpunk 2077
 
