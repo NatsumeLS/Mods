@@ -12,3 +12,23 @@
 ### Cyberpunk 2077
 
 - [Arknights - Archetto Advertisements](https://www.nexusmods.com/cyberpunk2077/mods/9386) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/CP2077/%23Natsu_Archetto_Advertisements)
+
+## Tools
+
+### General
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Paint.NET](https://www.getpaint.net/)
+
+### PD3
+
+- [Repak](https://github.com/trumank/repak)
+- [FModel](https://fmodel.app/)
+- [UAssetGUI](https://github.com/atenfyr/UAssetGUI)
+- [DDS-Tools](https://github.com/matyalatte/UE4-DDS-Tools)
+- [Bence's Uexp Utility](https://github.com/bence0585/Bences-uexp-utility/blob/main/but.py)
+
+### CP2077
+
+- [WolvenKit Nightly](https://github.com/WolvenKit/WolvenKit)
