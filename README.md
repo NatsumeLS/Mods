@@ -7,3 +7,4 @@
 ### PAYDAY 3
 
 - [Arknights - Archetto Phone Screen](https://modworkshop.net/mod/44054) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/Mods/PD3/Natsu-AK-ArchettoPhone)
+- [Arknights - Guiding Ahead Lobby Theme](https://modworkshop.net/mod/44011) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/Mods/PD3/Natsu-AK-GuidingAheadLobbyTheme)
