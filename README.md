@@ -8,6 +8,7 @@
 
 - [Arknights - Archetto Phone Screen](https://modworkshop.net/mod/44054) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-AK-ArchettoPhone)
 - [Arknights - Guiding Ahead Lobby Theme](https://modworkshop.net/mod/44011) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-AK-GuidingAheadLobbyTheme)
+- [Detected Sound - Metal Gear Solid Alert](https://modworkshop.net/mod/44352) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-MetalGearSolidAlert)
 
 ### Cyberpunk 2077
 
