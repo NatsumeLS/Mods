@@ -14,6 +14,7 @@
 - [Detected Sound - PAYDAY 2](https://modworkshop.net/mod/44362) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-PD2)
 - [Detected Sound - Chinese DOIT](https://modworkshop.net/mod/44366) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-ChineseDOIT)
 - [Suspicious Sound - Huh](https://modworkshop.net/mod/44365) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-SuspiciousSound-Huh)
+- [Escape Van - Plod Nee](https://modworkshop.net/mod/44371) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-EscapeVan-PlodNee)
 
 ### Cyberpunk 2077
 
