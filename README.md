@@ -12,6 +12,7 @@
 - [Detected Sound - TF2 Alert](https://modworkshop.net/mod/44355) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-TF2Alert)
 - [Detected Sound - AUGHHHH](https://modworkshop.net/mod/44358) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-AUGHHHH)
 - [Detected Sound - PAYDAY 2](https://modworkshop.net/mod/44362) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-DetectedSound-PD2)
+- [Suspicious Sound - Huh](https://modworkshop.net/mod/44365) - [Source](https://github.com/NatsumeLS/NatsuMods/tree/main/Mods/PD3/Natsu-SuspiciousSound-Huh)
 
 ### Cyberpunk 2077
 
